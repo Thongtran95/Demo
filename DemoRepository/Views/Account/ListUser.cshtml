@@ -1,0 +1,30 @@
+﻿@using Microsoft.AspNet.Identity;
+
+@model System.Linq.IQueryable<DemoRepository.Data.Model.ApplicationUser>
+
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<table class="table table-striped table-hover ">
+    <thead>
+    <tr>
+        <th>Email</th>
+        <th>Username</th>
+        <th>Edit book</th>
+        <th>Delete book</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Email</td>
+            <td>@user.UserName</td>
+            <td><a class="btn btn-info" asp-area="" asp-controller="Account" asp-action="" asp-route-id="@user.Id">Edit</a></td>
+            <td><a class="btn btn-danger" asp-area="" asp-controller="Account" asp-action="" asp-route-id="@user.Id" >Delete</a></td>
+        </tr>
+    }
+    </tbody>
+</table>
