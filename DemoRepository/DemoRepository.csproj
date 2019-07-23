@@ -29,7 +29,6 @@
     <_ContentIncludedByDefault Remove="Views\ManageRole\ListRole.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Pages\Admin" />
     <Folder Include="wwwroot\bower_components" />
   </ItemGroup>
   <ItemGroup>
