@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/hana/Downloads/DemoRepository/DemoRepository/DemoRepository.csproj",
+    "projectUniqueName": "/home/hana/Downloads/DemoRepository/Demo/DemoRepository/DemoRepository.csproj",
     "projectName": "DemoRepository",
-    "projectPath": "/home/hana/Downloads/DemoRepository/DemoRepository/DemoRepository.csproj",
-    "outputPath": "/home/hana/Downloads/DemoRepository/DemoRepository/obj/",
+    "projectPath": "/home/hana/Downloads/DemoRepository/Demo/DemoRepository/DemoRepository.csproj",
+    "outputPath": "/home/hana/Downloads/DemoRepository/Demo/DemoRepository/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
