@@ -22,8 +22,8 @@
         <tr>
             <td>@user.Email</td>
             <td>@user.UserName</td>
-            <td><a class="btn btn-info" asp-area="" asp-controller="Account" asp-action="" asp-route-id="@user.Id">Edit</a></td>
-            <td><a class="btn btn-danger" asp-area="" asp-controller="Account" asp-action="" asp-route-id="@user.Id" >Delete</a></td>
+            <td><a class="btn btn-info" asp-area="" asp-controller="Account" asp-action="Update" asp-route-id="@user.Id">Edit</a></td>
+            <td><a class="btn btn-danger" asp-area="" asp-controller="Account" asp-action="Delete" asp-route-id="@user.Id" >Delete</a></td>
         </tr>
     }
     </tbody>

@@ -3,6 +3,7 @@ using DemoRepository.Data.Model;
 using DemoRepository.ViewModel;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Internal;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DemoRepository.Controllers
@@ -25,6 +26,63 @@ namespace DemoRepository.Controllers
         {
             var user = _userManager.Users;
             return View(user);
+        }
+
+        public async Task<IActionResult> Update(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            if (user == null) 
+            {
+                ViewBag.ErrorMessage = $"User with Id = {id} cannot be found";
+                return NotFound();
+            }
+
+            var model = new UserViewModel
+            {
+                Id = user.Id,
+                Email = user.Email,
+                UserName = user.UserName
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(UserViewModel model)
+        {
+            var user = await _userManager.FindByIdAsync(model.Id);
+
+            if (user == null)
+            {
+                ViewBag.ErrorMessage = $"Users with Id = {model.Id} cannot be found";
+                return NotFound();
+            }
+            else
+            {
+                user.Email = model.Email;
+                user.UserName = model.UserName;
+
+                var result = await _userManager.UpdateAsync(user);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("ListUser");
+                }
+
+                foreach (var error in result.Errors)
+                {
+                    ModelState.AddModelError("", error.Description);
+                }
+
+                return View(model);
+            }
+
+        }
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Delete(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+
+            _userManager.DeleteAsync(user);
+            return RedirectToAction("ListUser");
         }
         
         [HttpPost]

@@ -160,3 +160,4 @@
 /home/hana/Downloads/DemoRepository/Demo/DemoRepository/obj/Debug/netcoreapp2.2/DemoRepository.pdb
 /home/hana/Downloads/DemoRepository/Demo/DemoRepository/obj/Debug/netcoreapp2.2/DemoRepository.csproj.CopyComplete
 /home/hana/Downloads/DemoRepository/Demo/DemoRepository/obj/Debug/netcoreapp2.2/Razor/Views/Admin/EditUserInRole.g.cshtml.cs
+/home/hana/Downloads/DemoRepository/Demo/DemoRepository/obj/Debug/netcoreapp2.2/Razor/Views/Account/Update.g.cshtml.cs

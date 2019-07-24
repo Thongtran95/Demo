@@ -2,162 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6843948a-90a7-4167-b8ad-117828b8082b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Demo.A3IgAA/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/Sach.UzMnAA/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/TestDB.sFwclQ/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/demoMVC.9z58XA/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/model.KfszBg/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/DatabaseMailUserRole.8_5cew.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentOperatorRole.0TKOXA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentReaderRole.MDWBQA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentUserRole.-G0QHw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/TargetServersRole.tedgoQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisadmin.hKdIaQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisltduser.nKx1mg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisoperator.TxzNGQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/managed_backup.YmLD7g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/managed_backup.YmLD7g.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/smart_admin.WcEq9g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/smart_admin.WcEq9g.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/msdb.pEgzAA/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/tempdb.Uqu0yw/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_datareader.To823g.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_datawriter._tp55w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_owner.souIfA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources/eefa6dd2-e8de-41f6-b857-f330697ba727/storage_v2/_src_/database/vidu.hDo3AA/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoRepository.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Views/Admin/EditUserInRole.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/EditUserInRole.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/AdminController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/AdminController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoRepository.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DemoRepository.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Admin/EditRole.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Admin/EditRole.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/UserViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Account/Update.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoRepository/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Model/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Model/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Account/ListUser.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Account/ListUser.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/DemoRepository.dll" afterDir="false" />
@@ -165,49 +17,12 @@
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.RazorCoreGenerate.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/DemoRepository.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/ListUser.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/ListUser.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/CreateRole.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/CreateRole.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/EditRole.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/EditRole.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/ListRole.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Admin/ListRole.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Create.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Create.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Empty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Empty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/List.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Update.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Author/Update.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/AuthorEmpty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/AuthorEmpty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/CheckBooks.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/CheckBooks.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Create.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Create.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Empty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Empty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/EmptyAuthor.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/EmptyAuthor.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/List.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Update.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Book/Update.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Create.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Create.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Empty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Empty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/List.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Update.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Customer/Update.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Error/HttpStatusCodeHandler.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Error/HttpStatusCodeHandler.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/Empty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/Empty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/LendBook.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/LendBook.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Lend/List.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Return/Empty.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Return/Empty.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Return/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Return/List.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/AuthorPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/AuthorPartial.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/DemoRepository.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/DemoRepository.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/DemoRepository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/DemoRepository.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -254,110 +69,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AdminController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Controllers/AdminController.cs">
+      <file leaf-file-name="AccountController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Controllers/AccountController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-278">
-              <caret line="163" column="50" selection-start-line="163" selection-start-column="50" selection-end-line="163" selection-end-column="50" />
+            <state relative-caret-position="344">
+              <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
               <folding>
-                <marker date="1563865094948" expanded="true" signature="6:239" ph="..." />
-                <marker date="1563865094948" expanded="true" signature="277:6272" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="325:6270" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="583:691" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="752:799" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="898:1561" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="944:1506" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1036:1097" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1222:1324" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1388:1492" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1657:1752" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1831:2777" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="1972:2114" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="2174:2256" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="2348:2734" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="2379:2562" ph="/* If the user is in this role, add the username to ... */" />
-                <marker date="1563865094948" expanded="true" signature="2632:2720" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="2939:3741" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3046:3194" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3211:3731" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3428:3521" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3575:3680" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3848:4825" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="3991:4137" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="4246:4782" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="4339:4441" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="4513:4606" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="4627:4721" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="4946:6264" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5051:5197" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5248:6183" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5483:5599" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5698:5819" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5840:5906" ph="{...}" />
-                <marker date="1563865094948" expanded="true" signature="5945:6169" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="6:242" ph="..." />
+                <marker date="1563936289660" expanded="true" signature="280:5548" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="330:5545" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="703:846" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="905:999" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1059:1524" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1161:1303" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1359:1481" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1613:2411" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1721:1870" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="1887:2400" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="2097:2190" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="2244:2349" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="2507:2682" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="2760:2886" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3017:3310" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3125:3188" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3205:3300" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3394:3457" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3612:4619" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3658:4581" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3736:3863" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="3986:4398" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="4452:4567" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="4701:4764" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="4896:5530" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="4942:5492" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="5143:5396" ph="{...}" />
+                <marker date="1563936289660" expanded="true" signature="5219:5315" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditRole.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Views/Admin/EditRole.cshtml">
+      <file leaf-file-name="AuthorController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/AuthorController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+            <state relative-caret-position="194">
+              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="36" />
               <folding>
-                <marker date="1563864191950" expanded="true" signature="51:112" ph="@..." />
-                <marker date="1563864191950" expanded="true" signature="133:1738" ph="&lt;form.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="171:389" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="277:378" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="394:691" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="506:680" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="763:995" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="800:984" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="1001:1730" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="1028:1108" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="1117:1467" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="1153:1452" ph="@..." />
-                <marker date="1563864191950" expanded="true" signature="1176:1344" ph="{...}" />
-                <marker date="1563864191950" expanded="true" signature="1240:1330" ph="{...}" />
-                <marker date="1563864191950" expanded="true" signature="1361:1452" ph="{...}" />
-                <marker date="1563864191950" expanded="true" signature="1476:1719" ph="&lt;div.../&gt;" />
-                <marker date="1563864191950" expanded="true" signature="1514:1704" ph="&lt;a.../&gt;" />
+                <marker date="1563432219064" expanded="false" signature="6:208" ph="..." />
+                <marker date="1563432219064" expanded="true" signature="246:2172" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="295:2169" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="432:502" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="565:744" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="795:957" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1028:1243" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1075:1140" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1282:1462" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1550:1913" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1597:1664" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1778:1857" ph="{...}" />
+                <marker date="1563432219064" expanded="true" signature="1994:2163" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditUserInRole.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Views/Admin/EditUserInRole.cshtml">
+      <file leaf-file-name="Update.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Account/Update.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="314">
+              <caret line="35" column="69" lean-forward="true" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
               <folding>
-                <marker date="1563863366981" expanded="true" signature="84:145" ph="@..." />
-                <marker date="1563863366981" expanded="true" signature="146:1184" ph="&lt;form.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="171:1176" ph="&lt;div.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="198:294" ph="&lt;div.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="303:874" ph="&lt;div.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="339:859" ph="@..." />
-                <marker date="1563863366981" expanded="true" signature="377:859" ph="{...}" />
-                <marker date="1563863366981" expanded="true" signature="408:845" ph="&lt;div.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="687:822" ph="&lt;label.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="883:1165" ph="&lt;div.../&gt;" />
-                <marker date="1563863366981" expanded="true" signature="1034:1150" ph="&lt;a.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="47:104" ph="@..." />
+                <marker date="1563937838850" expanded="true" signature="126:1237" ph="&lt;form.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="160:358" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="258:351" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="363:651" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="472:640" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="656:953" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="768:942" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="1017:1229" ph="&lt;div.../&gt;" />
+                <marker date="1563937838850" expanded="true" signature="1050:1222" ph="&lt;div.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserRoleViewModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs">
+      <file leaf-file-name="UserViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ViewModel/UserViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
-                <marker date="1563864361111" expanded="true" signature="34:218" ph="{...}" />
-                <marker date="1563864361111" expanded="true" signature="71:216" ph="{...}" />
+                <marker date="1563935232797" expanded="false" signature="6:78" ph="..." />
+                <marker date="1563935232797" expanded="true" signature="114:568" ph="{...}" />
+                <marker date="1563935232797" expanded="true" signature="147:566" ph="{...}" />
+                <marker date="1563935232797" expanded="true" signature="184:244" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -365,15 +171,43 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>models</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ViewModel/LoginViewModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/CreateAuthorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/CreateRoleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ViewModel/EditRoleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/c2/d99c3539/ValidationAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/HomeViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Account/ListUser.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/RegisterViewModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/CustomerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/19/f4eb281d/IdentityUser`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Account/Update.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModel/UserViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Author/Update.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/Admin/EditRole.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/BookController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/ManageRoleController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controllers/AdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/ErrorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Book/Create.cshtml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/AuthorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Model/Customer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Model/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Model/ApplicationUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Model/RegisterModel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Views/Admin/EditUserInRole.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/3e/a86b3d58/RequiredAttribute.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -383,6 +217,13 @@
         <option value="$PROJECT_DIR$/Views/Admin/EditRole.cshtml" />
         <option value="$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs" />
         <option value="$PROJECT_DIR$/Controllers/AdminController.cs" />
+        <option value="$PROJECT_DIR$/Data/Model/Book.cs" />
+        <option value="$PROJECT_DIR$/Controllers/AuthorController.cs" />
+        <option value="$PROJECT_DIR$/Pages/Account/Update.cshtml" />
+        <option value="$PROJECT_DIR$/ViewModel/UserViewModel.cs" />
+        <option value="$PROJECT_DIR$/Views/Account/ListUser.cshtml" />
+        <option value="$PROJECT_DIR$/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/Views/Account/Update.cshtml" />
       </list>
     </option>
   </component>
@@ -422,7 +263,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -441,31 +281,13 @@
               <item name="DemoRepository" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DemoRepository (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DemoRepository" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ViewModel" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DemoRepository (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DemoRepository" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DemoRepository (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DemoRepository" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Admin" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -517,12 +339,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563847934094</updated>
       <workItem from="1563847936722" duration="522000" />
-      <workItem from="1563851265549" duration="5911000" />
+      <workItem from="1563851265549" duration="10043000" />
+      <workItem from="1563876262066" duration="766000" />
+      <workItem from="1563932526628" duration="9150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6433000" />
+    <option name="totallyTimeSpent" value="20481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,19 +360,19 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21967213" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3295082" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.3295082" />
       <window_info anchor="right" id="Database" order="3" weight="0.32960895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -561,6 +385,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3295082" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="REST Client" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3295082" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -570,16 +420,509 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Controllers/BookController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding>
+            <marker date="1563432393044" expanded="false" signature="6:242" ph="..." />
+            <marker date="1563432393044" expanded="true" signature="280:3520" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="327:3518" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="552:668" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="799:1740" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1043:1435" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1482:1638" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1805:2008" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1851:1917" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1934:1998" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2047:2226" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2115:2182" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2311:2610" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2358:2497" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2655:2886" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2723:2842" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2971:3270" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3018:3157" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3351:3512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Book/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <marker date="1563414500141" expanded="true" signature="46:74" ph="@..." />
+            <marker date="1563414500141" expanded="true" signature="75:1705" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="107:1698" ph="&lt;form.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="273:997" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="391:799" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="430:697" ph="@{...}" />
+            <marker date="1563414500141" expanded="true" signature="813:981" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1006:1360" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1123:1345" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1369:1686" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1406:1671" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <marker date="1563873140573" expanded="true" signature="105:514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/RegisterModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563247016000" expanded="true" signature="114:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562567008000" expanded="true" signature="109:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563417411954" expanded="true" signature="114:360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/RegisterViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1563418051255" expanded="true" signature="117:639" ph="{...}" />
+            <marker date="1563418051255" expanded="true" signature="482:581" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/3e/a86b3d58/RequiredAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1563864361111" expanded="true" signature="34:218" ph="{...}" />
+            <marker date="1563864361111" expanded="true" signature="71:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563936289660" expanded="true" signature="6:242" ph="..." />
+            <marker date="1563936289660" expanded="true" signature="280:5548" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="330:5545" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="703:846" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="905:999" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1059:1524" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1161:1303" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1359:1481" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1613:2411" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1721:1870" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1887:2400" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2097:2190" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2244:2349" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2507:2682" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2760:2886" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3017:3310" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3125:3188" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3205:3300" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3394:3457" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3612:4619" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3658:4581" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3736:3863" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3986:4398" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4452:4567" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4701:4764" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4896:5530" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4942:5492" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="5143:5396" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="5219:5315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/BookController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding>
+            <marker date="1563432393044" expanded="false" signature="6:242" ph="..." />
+            <marker date="1563432393044" expanded="true" signature="280:3520" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="327:3518" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="552:668" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="799:1740" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1043:1435" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1482:1638" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1805:2008" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1851:1917" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1934:1998" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2047:2226" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2115:2182" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2311:2610" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2358:2497" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2655:2886" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2723:2842" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2971:3270" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3018:3157" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3351:3512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Book/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <marker date="1563414500141" expanded="true" signature="46:74" ph="@..." />
+            <marker date="1563414500141" expanded="true" signature="75:1705" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="107:1698" ph="&lt;form.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="273:997" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="391:799" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="430:697" ph="@{...}" />
+            <marker date="1563414500141" expanded="true" signature="813:981" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1006:1360" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1123:1345" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1369:1686" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1406:1671" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/RegisterModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563247016000" expanded="true" signature="114:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562567008000" expanded="true" signature="109:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563417411954" expanded="true" signature="114:360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/RegisterViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1563418051255" expanded="true" signature="117:639" ph="{...}" />
+            <marker date="1563418051255" expanded="true" signature="482:581" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/3e/a86b3d58/RequiredAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1563864361111" expanded="true" signature="34:218" ph="{...}" />
+            <marker date="1563864361111" expanded="true" signature="71:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <marker date="1563873140573" expanded="true" signature="105:514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appsettings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/eefa6dd2-e8de-41f6-b857-f330697ba727/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="4581" column="1" selection-start-line="4581" selection-start-column="1" selection-end-line="4581" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/ErrorController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/ManageRoleController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Book/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <marker date="1563414500141" expanded="true" signature="46:74" ph="@..." />
+            <marker date="1563414500141" expanded="true" signature="75:1705" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="107:1698" ph="&lt;form.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="273:997" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="391:799" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="430:697" ph="@{...}" />
+            <marker date="1563414500141" expanded="true" signature="813:981" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1006:1360" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1123:1345" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1369:1686" ph="&lt;div.../&gt;" />
+            <marker date="1563414500141" expanded="true" signature="1406:1671" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/RegisterModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563247016000" expanded="true" signature="114:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562567008000" expanded="true" signature="109:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563417411954" expanded="true" signature="114:360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/RegisterViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1563418051255" expanded="true" signature="117:639" ph="{...}" />
+            <marker date="1563418051255" expanded="true" signature="482:581" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/3e/a86b3d58/RequiredAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47BB0678-2410-476F-81DA-C920517A6640/c2/d99c3539/ValidationAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1358">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <marker date="1563873140573" expanded="true" signature="105:514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/BookController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding>
+            <marker date="1563432393044" expanded="false" signature="6:242" ph="..." />
+            <marker date="1563432393044" expanded="true" signature="280:3520" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="327:3518" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="552:668" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="799:1740" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1043:1435" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1482:1638" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1805:2008" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1851:1917" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="1934:1998" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2047:2226" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2115:2182" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2311:2610" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2358:2497" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2655:2886" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2723:2842" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="2971:3270" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3018:3157" ph="{...}" />
+            <marker date="1563432393044" expanded="true" signature="3351:3512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/CreateAuthorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562568281000" expanded="true" signature="68:210" ph="{...}" />
+            <marker date="1562568281000" expanded="true" signature="109:208" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/CreateRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563435121597" expanded="true" signature="80:197" ph="{...}" />
+            <marker date="1563435121597" expanded="true" signature="119:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/HomeViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562568307000" expanded="true" signature="34:263" ph="{...}" />
+            <marker date="1562568307000" expanded="true" signature="67:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5BEF0119-3538-44C0-B65A-C60D6E1DCCFE/19/f4eb281d/IdentityUser`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Model/ApplicationUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563442487386" expanded="false" signature="6:50" ph="..." />
+            <marker date="1563442487386" expanded="true" signature="87:158" ph="{...}" />
+            <marker date="1563442487386" expanded="true" signature="136:156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1563864361111" expanded="true" signature="34:218" ph="{...}" />
+            <marker date="1563864361111" expanded="true" signature="71:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/CustomerViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562568295000" expanded="true" signature="68:209" ph="{...}" />
+            <marker date="1562568295000" expanded="true" signature="105:207" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Author/Update.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
+          <folding>
+            <marker date="1563414484341" expanded="true" signature="73:101" ph="@..." />
+            <marker date="1563414484341" expanded="true" signature="102:1005" ph="&lt;div.../&gt;" />
+            <marker date="1563414484341" expanded="true" signature="134:998" ph="&lt;form.../&gt;" />
+            <marker date="1563414484341" expanded="true" signature="353:658" ph="&lt;div.../&gt;" />
+            <marker date="1563414484341" expanded="true" signature="464:643" ph="&lt;div.../&gt;" />
+            <marker date="1563414484341" expanded="true" signature="667:986" ph="&lt;div.../&gt;" />
+            <marker date="1563414484341" expanded="true" signature="704:971" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Admin/EditUserInRole.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <marker date="1563863366981" expanded="true" signature="84:145" ph="@..." />
+            <marker date="1563863366981" expanded="true" signature="146:1184" ph="&lt;form.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="171:1176" ph="&lt;div.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="198:294" ph="&lt;div.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="303:874" ph="&lt;div.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="339:859" ph="@..." />
+            <marker date="1563863366981" expanded="true" signature="377:859" ph="{...}" />
+            <marker date="1563863366981" expanded="true" signature="408:845" ph="&lt;div.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="687:822" ph="&lt;label.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="883:1165" ph="&lt;div.../&gt;" />
+            <marker date="1563863366981" expanded="true" signature="1034:1150" ph="&lt;a.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ViewModel/EditRoleViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="16" column="47" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="47" />
           <folding>
             <marker date="1563441688694" expanded="false" signature="6:78" ph="..." />
             <marker date="1563441688694" expanded="true" signature="114:470" ph="{...}" />
@@ -591,8 +934,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Views/Admin/EditRole.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        <state relative-caret-position="73">
+          <caret line="30" column="10" selection-start-line="6" selection-end-line="30" selection-end-column="10" />
           <folding>
             <marker date="1563864191950" expanded="true" signature="51:112" ph="@..." />
             <marker date="1563864191950" expanded="true" signature="133:1738" ph="&lt;form.../&gt;" />
@@ -615,50 +958,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="4581" column="1" selection-start-line="4581" selection-start-column="1" selection-end-line="4581" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Admin/EditUserInRole.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <marker date="1563863366981" expanded="true" signature="84:145" ph="@..." />
-            <marker date="1563863366981" expanded="true" signature="146:1184" ph="&lt;form.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="171:1176" ph="&lt;div.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="198:294" ph="&lt;div.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="303:874" ph="&lt;div.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="339:859" ph="@..." />
-            <marker date="1563863366981" expanded="true" signature="377:859" ph="{...}" />
-            <marker date="1563863366981" expanded="true" signature="408:845" ph="&lt;div.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="687:822" ph="&lt;label.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="883:1165" ph="&lt;div.../&gt;" />
-            <marker date="1563863366981" expanded="true" signature="1034:1150" ph="&lt;a.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ViewModel/UserRoleViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <marker date="1563864361111" expanded="true" signature="34:218" ph="{...}" />
-            <marker date="1563864361111" expanded="true" signature="71:216" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Controllers/AdminController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="163" column="50" selection-start-line="163" selection-start-column="50" selection-end-line="163" selection-end-column="50" />
+        <state relative-caret-position="-825">
+          <caret line="117" column="68" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="68" />
           <folding>
-            <marker date="1563865094948" expanded="true" signature="6:239" ph="..." />
+            <marker date="1563865094948" expanded="false" signature="6:239" ph="..." />
             <marker date="1563865094948" expanded="true" signature="277:6272" ph="{...}" />
             <marker date="1563865094948" expanded="true" signature="325:6270" ph="{...}" />
             <marker date="1563865094948" expanded="true" signature="583:691" ph="{...}" />
@@ -693,6 +998,115 @@
             <marker date="1563865094948" expanded="true" signature="5698:5819" ph="{...}" />
             <marker date="1563865094948" expanded="true" signature="5840:5906" ph="{...}" />
             <marker date="1563865094948" expanded="true" signature="5945:6169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Account/ListUser.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1563936220392" expanded="true" signature="110:167" ph="@..." />
+            <marker date="1563936220392" expanded="true" signature="168:815" ph="&lt;table.../&gt;" />
+            <marker date="1563936220392" expanded="true" signature="221:365" ph="&lt;thead.../&gt;" />
+            <marker date="1563936220392" expanded="true" signature="233:352" ph="&lt;tr.../&gt;" />
+            <marker date="1563936220392" expanded="true" signature="370:806" ph="&lt;tbody.../&gt;" />
+            <marker date="1563936220392" expanded="true" signature="382:793" ph="@..." />
+            <marker date="1563936220392" expanded="true" signature="410:793" ph="{...}" />
+            <marker date="1563936220392" expanded="true" signature="425:787" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/AuthorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="36" />
+          <folding>
+            <marker date="1563432219064" expanded="false" signature="6:208" ph="..." />
+            <marker date="1563432219064" expanded="true" signature="246:2172" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="295:2169" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="432:502" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="565:744" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="795:957" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1028:1243" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1075:1140" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1282:1462" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1550:1913" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1597:1664" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1778:1857" ph="{...}" />
+            <marker date="1563432219064" expanded="true" signature="1994:2163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Account/Update.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="35" column="69" lean-forward="true" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
+          <folding>
+            <marker date="1563937838850" expanded="true" signature="47:104" ph="@..." />
+            <marker date="1563937838850" expanded="true" signature="126:1237" ph="&lt;form.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="160:358" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="258:351" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="363:651" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="472:640" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="656:953" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="768:942" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="1017:1229" ph="&lt;div.../&gt;" />
+            <marker date="1563937838850" expanded="true" signature="1050:1222" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModel/UserViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1563935232797" expanded="false" signature="6:78" ph="..." />
+            <marker date="1563935232797" expanded="true" signature="114:568" ph="{...}" />
+            <marker date="1563935232797" expanded="true" signature="147:566" ph="{...}" />
+            <marker date="1563935232797" expanded="true" signature="184:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="71" column="38" lean-forward="true" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding>
+            <marker date="1563936289660" expanded="true" signature="6:242" ph="..." />
+            <marker date="1563936289660" expanded="true" signature="280:5548" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="330:5545" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="703:846" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="905:999" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1059:1524" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1161:1303" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1359:1481" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1613:2411" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1721:1870" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="1887:2400" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2097:2190" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2244:2349" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2507:2682" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="2760:2886" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3017:3310" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3125:3188" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3205:3300" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3394:3457" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3612:4619" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3658:4581" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3736:3863" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="3986:4398" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4452:4567" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4701:4764" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4896:5530" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="4942:5492" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="5143:5396" ph="{...}" />
+            <marker date="1563936289660" expanded="true" signature="5219:5315" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -9,7 +9,7 @@
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <secret-storage>master_key</secret-storage>
       <user-name>Sa</user-name>
-      <introspection-schemas>*:*|Sach:|master:dbo</introspection-schemas>
+      <introspection-schemas>*:*|Demo:|Sach:|TestDB:|demoMVC:|master:dbo|model:|msdb:|tempdb:|vidu:</introspection-schemas>
     </data-source>
   </component>
 </project>
